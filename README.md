@@ -1,50 +1,39 @@
-# Hi 👋 I'm Piyusha 🚀
+# Hi, I’m Piyusha 👋
 
-🎓 Engineering Student | 💻  Developer  
-🌱 Learning Angular, TypeScript & React  
-🎯 Goal: Crack Internship & Placement
+Welcome to my GitHub! I'm a passionate software developer who enjoys building useful tools, learning new technologies, and contributing to open source.
 
----
-
-## 🛠️ Skills
-- HTML, CSS, JavaScript
-- TypeScript
-- Angular (Basics)
-- React
-- Git & GitHub
+- 🔭 I’m currently working on: Awesome Project — a small description of what it does.
+- 🌱 I’m learning: Go, Rust, and advanced frontend patterns
+- 👯 I’m open to collaborating on: web apps, developer tools, and open source projects
+- 💬 Ask me about: JavaScript, React, Node.js, Git, and contribution workflows
+- 📫 How to reach me: your-email@example.com • [LinkedIn](https://www.linkedin.com/in/your-linkedin) • [Twitter](https://twitter.com/your-twitter)
+- ⚡ Fun fact: I enjoy photography and morning runs
 
 ---
 
-## 🔥 Projects
-- 📝 Notes App (TypeScript)
-- 🚦 Traffic Light Simulator
-- 🌐 Scientific Indian (Static Website)
-- 🤟 Deafy – Sign Language Platform
+## 🔧 Tech & Tools
+JavaScript • TypeScript • Python • React • Node.js • Express • Angular • Git • GitHub 
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitPiyusha&show_icons=true)
+## 🔭 Featured Projects
+- [project-one](https://github.com/GitPiyusha/project-one) — Short sentence describing project one.
+- [project-two](https://github.com/GitPiyusha/project-two) — Short sentence describing project two.
+- [project-three](https://github.com/GitPiyusha/project-three) — Short sentence describing project three.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitPiyusha&layout=compact)
+(After you push these repos, pin up to 6 of them on your profile.)
 
 ---
 
-## 🤝 Connect With Me
-- LinkedIn: https://[linkedin.com/in/](https://www.linkedin.com/in/piyusha537/)
-- Email: piyushaawate@gmail.com
+## 📊 GitHub Stats
 
-<!--
-**GitPiyusha/GitPiyusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GitPiyusha&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GitPiyusha&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect
+- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/your-linkedin
+- Twitter: https://twitter.com/your-twitter
