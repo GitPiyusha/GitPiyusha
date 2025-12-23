@@ -1,6 +1,6 @@
 # Hi 👋 I'm Piyusha 🚀
 
-🎓 Engineering Student | 💻 Frontend Developer  
+🎓 Engineering Student | 💻  Developer  
 🌱 Learning Angular, TypeScript & React  
 🎯 Goal: Crack Internship & Placement
 
