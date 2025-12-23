@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate software developer who enjoys building us
 - 🌱 I’m learning: Go, Rust, and advanced frontend patterns
 - 👯 I’m open to collaborating on: web apps, developer tools, and open source projects
 - 💬 Ask me about: JavaScript, React, Node.js, Git, and contribution workflows
-- 📫 How to reach me: your-email@example.com • [LinkedIn](https://www.linkedin.com/in/your-linkedin) • [Twitter](https://twitter.com/your-twitter)
+- 📫 How to reach me: piyushaawate@example.com • [LinkedIn](https://www.linkedin.com/in/piyusha537/) 
 - ⚡ Fun fact: I enjoy photography and morning runs
 
 ---
@@ -17,9 +17,9 @@ JavaScript • TypeScript • Python • React • Node.js • Express • Angul
 ---
 
 ## 🔭 Featured Projects
-- [project-one](https://github.com/GitPiyusha/project-one) — Short sentence describing project one.
-- [project-two](https://github.com/GitPiyusha/project-two) — Short sentence describing project two.
-- [project-three](https://github.com/GitPiyusha/project-three) — Short sentence describing project three.
+- [project-one](https://github.com/GitPiyusha/ScientificIndian.git) — Short sentence describing project one.
+- [project-two](https://github.com/GitPiyusha/Deafy.git) — Short sentence describing project two.
+- [project-three](https://github.com/GitPiyusha/ChitChat.git) — Short sentence describing project three.
 
 (After you push these repos, pin up to 6 of them on your profile.)
 
