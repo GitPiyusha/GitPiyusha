@@ -17,9 +17,9 @@ JavaScript • TypeScript • Python • React • Node.js • Express • Angul
 ---
 
 ## 🔭 Featured Projects
-- [Scientific Indian](https://github.com/GitPiyusha/ScientificIndian.git) — Short sentence describing project one.
-- [Deafy](https://github.com/GitPiyusha/Deafy.git) — Short sentence describing project two.
-- [ChitChat](https://github.com/GitPiyusha/ChitChat.git) — Short sentence describing project three.
+- [Scientific Indian](https://github.com/GitPiyusha/ScientificIndian.git) 
+- [Deafy](https://github.com/GitPiyusha/Deafy.git)
+- [ChitChat](https://github.com/GitPiyusha/ChitChat.git) 
 
 (After you push these repos, pin up to 6 of them on your profile.)
 
