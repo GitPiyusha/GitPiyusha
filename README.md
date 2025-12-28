@@ -21,7 +21,6 @@ JavaScript • TypeScript • Python • React • Node.js • Express • Angul
 - [Deafy](https://github.com/GitPiyusha/Deafy.git)
 - [ChitChat](https://github.com/GitPiyusha/ChitChat.git) 
 
-(After you push these repos, pin up to 6 of them on your profile.)
 
 ---
 
