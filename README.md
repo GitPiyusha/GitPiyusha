@@ -25,9 +25,11 @@ JavaScript • TypeScript • Python • React • Node.js • Express • Angul
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GitPiyusha&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitPiyusha&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GitPiyusha&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitPiyusha&layout=compact&hide_border=true)
+
 
 
 ---
